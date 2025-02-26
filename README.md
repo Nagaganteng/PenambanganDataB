@@ -1,2 +1,2 @@
 # PenambanganDataB
-hai
+web bisa di lihat di link berikut: https://nagaganteng.github.io/PenambanganDataB/
